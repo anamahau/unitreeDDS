@@ -7,3 +7,4 @@ gen.*
 .vscode/
 build/
 README.md
+examples/helloworld/readme.rst
